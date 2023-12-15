@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @momo645. I'm franch. I speak spanish and english.
+- 👋 Hi, I’m @momo645. I'm french. I speak spanish and english.
 - 👀 I’m interested by learning C language. 
 - 🌱 I’m currently trying to remake in C language an encryption program written in assembler MASM 6.1. 
 - 💞️ I’m looking for help to develop this program. A patent has been filed in Bogotá to protect its algorithm in 2012.
